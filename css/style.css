@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-display: 1.5;
+    background-color: gainsboro;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
