@@ -1,12 +1,141 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
-    font-display: 1.5;
-    background-color: gainsboro;
+    font-display: 1.5; /*distance between lines*/
+    background-color: whitesmoke;
+    padding: 0;
+    margin: 0;
 }
 
+/* Global */
 .container{
     width: 80%;
-    margin: auto;
+    margin: auto; /*move to center*/
     overflow: hidden;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+.button_1{
+    height: 38px;
+    background: tomato;
+    border: 0;
+    padding: 0 20px 0 20px;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+/* header */
+header{
+    background: white;
+    color: darkslategray;
+    padding-top: 25px;
+    min-height: 60px;
+}
+
+header a{
+    color: darkslategray;;
+    text-decoration: none; /*remove underline*/
+    text-transform: uppercase; /*text to uppercase*/
+    font-size: 16px;
+    font-weight: bold;
+}
+
+header li{
+    display: inline-block;
+    padding: 0 20px 0 20px;     
+}
+
+header #brand{
+    float: left;
+}
+
+header #brand h1{
+    margin: 0; 
+}
+
+header nav{
+    float: right;
+    margin-top: 10px;
+}
+
+header .highlight, header .current a{
+    color: tomato;
+}
+
+/* header a:hover{
+    color: #cccccc;
+} */
+
+/* banner */
+#banner{
+    min-height: 500px;
+    background: dodgerblue;
+    background-image: linear-gradient(to bottom right, dodgerblue, MediumSeaGreen);
+    /* background: url('../img/banner.jpg') no-repeat; */
+    text-align: center;
+    color: white;
+}
+
+#banner h1{
+    margin-top: 150px;
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+
+#banner p{
+    font-size: 20px;
+}
+
+/* newsletter */
+#newsletter{
+    padding: 15px;
+    color: white;
+    background: darkslategray;
+}
+
+#newsletter h1{
+    float: left;
+}
+
+#newsletter form{
+    float: right;
+    margin-top: 15px;
+}
+
+#newsletter input[type="email"]{
+    padding: 4px;
+    height: 24px;
+    width:250px;
+}
+
+/* boxes */
+#boxes{
+    margin: 20px 0 50px 0;
+}
+
+#boxes .box{
+    display: inline-block;
+    width:31%;
+    padding: 80px 10px;
+    text-align: center;
+    background-color: white;
+    border-radius: 4px;
+    color: darkslategray;
+}
+
+#boxes .box img{
+    width: 90px;
+}
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    background-color: darkslategray;
+    text-align: center;
 }
