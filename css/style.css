@@ -120,6 +120,29 @@ header .highlight, header .current a{
     width:250px;
 }
 
+/* download */
+#download{
+    padding: 30px;
+    color: white;
+    background-image: linear-gradient(to bottom right, dodgerblue, MediumSeaGreen);
+    min-height: 200;
+    margin-bottom: 20px;
+}
+
+#download h1{
+    margin-top: 40px;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+#download p{
+    font-size: 20px;
+}
+
+#download button{
+    margin-top: 15px;
+}
+
 /* boxes */
 #boxes{
     margin: 20px 0 50px 0;
@@ -143,7 +166,7 @@ header .highlight, header .current a{
 aside#sidebar{
     float: right;
     width: 30%;
-    margin-top: 10px;
+    margin-top: 55px;
 }
 
 /* main-col */
@@ -152,6 +175,16 @@ article#main-col{
     width: 65%;
 }
 
+/* product */
+ul#product li{
+    list-style: none;
+    padding: 20px;
+    margin-bottom: 10px;
+    background: white;
+    border-radius: 4px;
+}
+
+/* footer */
 footer{
     padding: 20px;
     margin-top: 20px;
