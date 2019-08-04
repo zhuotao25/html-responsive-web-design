@@ -227,8 +227,14 @@ footer{
         width: auto;
     }
 
+    #banner{
+        min-height: 0px;
+        padding-bottom: 40px;
+    }
+
     #banner h1{
         margin-top: 40px;
+        font-size: 40px;
     }
 
     #newsletter button{
