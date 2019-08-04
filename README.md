@@ -5,14 +5,14 @@ Screenshots:
 
 Descktop:
 
-<img src="screenshots/index1.png" width="500">
-<img src="screenshots/index2.png" width="500">
-<img src="screenshots/product.png" width="500">
-<img src="screenshots/about.png" width="500">
+<img src="screenshots/desktop/index1.png" width="500">
+<img src="screenshots/desktop/index2.png" width="500">
+<img src="screenshots/desktop/product.png" width="500">
+<img src="screenshots/desktop/about.png" width="500">
 
 
 Mobile Device:
 
-<img src="screenshots/index-mobile.png" height="450">
-<img src="screenshots/product-mobile.png" height="450">
-<img src="screenshots/about-mobile.png" height="450">
+<img src="screenshots/mobile/index-mobile.png" height="450">
+<img src="screenshots/mobile/product-mobile.png" height="450">
+<img src="screenshots/mobile/about-mobile.png" height="450">
