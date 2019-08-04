@@ -29,6 +29,13 @@ ul{
     font-weight: bold;
 }
 
+.dark{
+    padding: 15px;
+    background: darkslategray;
+    color: white;
+    margin-top: 10px 0;
+}
+
 /* header */
 header{
     background: white;
@@ -130,6 +137,19 @@ header .highlight, header .current a{
 
 #boxes .box img{
     width: 90px;
+}
+
+/* sidebar */
+aside#sidebar{
+    float: right;
+    width: 30%;
+    margin-top: 10px;
+}
+
+/* main-col */
+article#main-col{
+    float: left;
+    width: 65%;
 }
 
 footer{
