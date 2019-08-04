@@ -13,4 +13,4 @@ Descktop:
 
 Mobile Device:
 
-<img src="screenshots/mobile/index-mobile.png" height="450">&nbsp;<img src="screenshots/mobile/product-mobile.png" height="450">&nbsp;<img src="screenshots/mobile/about-mobile.png" height="450">
+<img src="screenshots/mobile/index-mobile.png" height="450"> <img src="screenshots/mobile/product-mobile.png" height="450"> <img src="screenshots/mobile/about-mobile.png" height="450">
