@@ -5,8 +5,9 @@ Screenshots:
 
 Descktop:
 
-<img src="screenshots/desktop/index1.png" width="430"> <img src="screenshots/desktop/index2.png" width="430">
-<img src="screenshots/desktop/product.png" width="430"> <img src="screenshots/desktop/about.png" width="430">
+<img src="screenshots/desktop/index1.png" width="865">
+<img src="screenshots/desktop/index2.png" width="430"> <img src="screenshots/desktop/product.png" width="430">
+<img src="screenshots/desktop/about.png" width="430">
 
 
 Mobile Device:
